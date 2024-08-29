@@ -1,0 +1,14 @@
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+D:\Source Code\24hr_api_challenge\technicalinterview-project\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll
